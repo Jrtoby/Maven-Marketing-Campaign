@@ -78,9 +78,9 @@ From the chart we can see that the deals purchase and catelog channels are under
 ## Visualization
 The report comprises of 2 pages; 
 - Overview
-![](Dashboard1.png)
+![](Dashboard_1.png)
 - Average customer profile.
-![](Dashboard2.png)
+![](Dashboard_2.png)
 
 This dashboard provides an in-depth analysis of a marketing campaign’s performance, customer demographics, purchasing power and campaign effectiveness.
 key Values;
