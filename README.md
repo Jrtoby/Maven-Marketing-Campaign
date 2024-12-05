@@ -35,7 +35,7 @@ The "Remove Duplicates" operation was used on the "ID" column, confirming that n
 ## Modeling
 The automatic derived table relationships were adjusted, making the date column power bi working date for the analysis.
 
-## Data Discovery and Visualization
+## Data Discovery
 1.  Are there any null values or outliers? How will you handle them?
 Yes. i found null values in the "income" column, which i used find and replace operation to change them to 0, they seem to be unemployed and independent.
 
