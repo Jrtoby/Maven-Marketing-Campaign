@@ -47,10 +47,13 @@ The last bar chart shows that married people purchase the most from the web chan
 
 3. Which marketing campaign was the most successful?
 ![](Campaign_success_rate.png)
+
 The chart shows that campaign 4 have the most successful marketing campaign on 25.04%
 
-4. What does the average customer look like?
+5. What does the average customer look like?
+
 ![](Average_customers.png)
+
 An average customer has around;
 - $51.69k USD income,
 - Has a graduation degree,
