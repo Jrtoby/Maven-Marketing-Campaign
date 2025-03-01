@@ -33,7 +33,7 @@ The following Power Bi features were incoperated;
 The "Remove Duplicates" operation was used on the "ID" column, confirming that no duplicates existed and null values were replaced to 0(zero), Column data types were appropriately validated, such as formatting the "Income" column to display currency. Additionally, the "Year_Birth" column was renamed to "Birth_Year" and was converted to the "Date" data type.
 
 ## Modeling
-The automatic derived table relationships were adjusted, making the date column power bi working date for the analysis.
+The automatic derived table relationships were adjusted to working date for the analysis.
 
 ## Data Discovery
 1.  Are there any null values or outliers? How will you handle them?
